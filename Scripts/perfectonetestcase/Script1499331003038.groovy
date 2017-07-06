@@ -35,3 +35,5 @@ WebUI.comment('')
 
 WebUI.dismissAlert()
 
+WebUI.acceptAlert()
+
